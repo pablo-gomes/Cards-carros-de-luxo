@@ -11,15 +11,16 @@ height: 100vh;
 display: flex;
 flex-direction: column;
 background-color: black;
-background-image: url("fundo.jpg");
+background-image: url("fundo\ 2.jpg");
 background-size: cover;
 background-attachment: fixed;
+
 
 
 }
 header{background-color: white;
     height: 100px;
-    color: rgb(141, 222, 11);
+    color: black;
     text-align: center;
     align-content: center;
     font-size: 28px;
